@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello world
 atharva sonawane
+=======
+hello world Atharva sonawane
+>>>>>>> origin/master
